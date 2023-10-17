@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshohanurrahman" alt="mdshohanurrahman" /></a> </p>
 
-- 🔭 I’m currently working on **Autobill (a billing software)**
+- 🔭 I’m currently working at **TM R&D** as a Backend Engineer. 
 
-- 💬 Ask me about **react, react-native, groovy,grails, python-django, javascript, java**
+- 💬 Ask me about **java, spring-boot, groovy, grails, python-django, javascript**
 
 - 📫 How to reach me **shohan.drmc@gmail.com**
 
