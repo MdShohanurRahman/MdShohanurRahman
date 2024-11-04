@@ -29,7 +29,7 @@ Welcome to my GitHub! I’m a Software Engineer with over 5.5 years of experienc
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shohanur-rahman-674897180/)
-[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=github&logoColor=white)](https://hashnode.com/@shohanur)
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@shohanur)
 
 ---
 
