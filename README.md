@@ -19,9 +19,9 @@ Welcome to my GitHub! I’m a Software Engineer with over 5.5 years of experienc
 
 ---
 ### 🚀 Current Projects
-- 🔒 API Gateways & Security**: Developing secure API gateways with Spring Cloud Gateway and OAuth2/Keycloak.
-- 📄 E-Invoicing Middleware**: Building middleware for e-invoicing and integrating with LHDN Malaysia’s system.
-- 📈 Async Handling & Optimizations**: Working on improving API response times and async handling for smoother user experiences.
+- 🔒 API Gateways & Security: Developing secure API gateways with Spring Cloud Gateway and OAuth2/Keycloak.
+- 📄 E-Invoicing Middleware: Building middleware for e-invoicing and integrating with LHDN Malaysia’s system.
+- 📈 Async Handling & Optimizations: Working on improving API response times and async handling for smoother user experiences.
 - 💼 ERP Integration: Implementing enterprise resource planning (ERP) integrations to streamline business processes.
 - 📊 CRM Solutions: Developing customer relationship management (CRM) solutions for enhancing customer engagement and analytics.
 ---
